@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/StephenosayiJoshua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/Stepheosayijoshua" height="30" width="40" /></a>
-<a href="https://twitter.com/StephenJoshua_" target="blank"><img align="center" src="https://raw.githhref="https://medium.com/@solomon.chideralign="center"="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@
+<a href="https://www.linkedin.com/in/Stephen osayi Joshua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/Stephe osayi joshua" height="30" width="40" /></a>
+<a generator/master/src/images/icons/Social/medium.svg" alt="@
 <a href="https://instagram.com/"Joshpeebeatzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Joshpeebeatzz" height="30" width="40" /></a>
 </p>
 
