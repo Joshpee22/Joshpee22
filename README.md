@@ -43,10 +43,10 @@ I am a Full Stack Software Engineer in making <img src="https://media.giphy.com/
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/Joshpee" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/joshpe22" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 📈 my github stats
 <div>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joshpee22&show_icons=true&theme=gotham" alt="Joshpee" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joshpee22&show_icons=true&theme=gotham" alt="joshpee22"/>
   </div>
