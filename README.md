@@ -25,7 +25,7 @@ I am a Full Stack Software Engineer in making <img src="https://media.giphy.com/
 
 - :zap: I love PYTHON.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-NaheemahBello-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naheemah-bello-933443250/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Stephenjoshua-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-osayi-joshua-1374a9265/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -37,16 +37,16 @@ I am a Full Stack Software Engineer in making <img src="https://media.giphy.com/
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaheemahBello&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Stephenjoshua&theme=vue-dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaheemahBello&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephenjoshua&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/Naheemah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/Joshpee" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 📈 my github stats
 <div>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NaheemahBello&show_icons=true&theme=gotham" alt="NaheemahBello" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Stephenjoshua&show_icons=true&theme=gotham" alt="Joshpee" />
   </div>
