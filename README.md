@@ -23,7 +23,7 @@ I am a Full Stack Software Engineer in making <img src="https://media.giphy.com/
 
 - :seedling: Exploring git and other interesting things along the way.
 
-- :zap: I love PYTHON.
+- :zap: I love JavaScript.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Stephenjoshua-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-osayi-joshua-1374a9265/)
 
