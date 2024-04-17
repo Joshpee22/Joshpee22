@@ -16,10 +16,10 @@
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500" height="200"/>
 </div>
 
-### :woman_technologist: About Me :
-I am a Full Stack Software Engineer in making <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+### :Man_technologist: About Me :
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: I’m learnig to be a Software Engineer and open to contributing and learning from others.
+- :telescope: I’m learnig to be a Full Stack Software Engineer and open to contributing and learning from others.
 
 - :seedling: Exploring git and other interesting things along the way.
 
